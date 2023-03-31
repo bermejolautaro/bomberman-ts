@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel index.html --out-dir docs"
   },
   "devDependencies": {
     "parcel-plugin-static-files-copy": "^2.6.0",
