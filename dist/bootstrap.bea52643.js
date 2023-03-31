@@ -2620,4 +2620,4 @@ function bootstrap() {
 
 bootstrap();
 },{"./bomberman-game":"Vn4t","./engine/collision-manager":"NuJu","./engine/entity-manager":"fLNU","./engine/game-loop":"rPbL","./engine/key-listener":"i73s","./engine/position-manager":"KvhI"}]},{},["GoSL"], null)
-//# sourceMappingURL=/bootstrap.bea52643.js.map
+//# sourceMappingURL=bomberman-ts/bootstrap.bea52643.js.map
