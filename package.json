@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --out-dir docs --public-url . --no-minify"
+    "build": "parcel build index.html --no-minify"
   },
   "devDependencies": {
     "cssnano": "^6.0.0",
